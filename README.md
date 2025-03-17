@@ -42,4 +42,4 @@ For a complete overview of the project, refer to the final project report:
 This project was completed as part of the IBM Data Science Professional Certificate program.
 
 ## Contact  
-For questions or feedback, please contact me at yassinehakam@outlook.com or https://www.linkedin.com/in/yhakam/.
+For questions or feedback, please contact me at yassinehakam@outlook.com.
