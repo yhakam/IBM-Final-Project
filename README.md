@@ -5,15 +5,17 @@
 This repository contains my final project for the IBM Data Science Professional Certificate. The project focuses on collecting, analyzing, and predicting SpaceX launch data. It demonstrates a full data science workflow—from data collection via API and web scraping, through data wrangling and exploratory data analysis (EDA) (using both Python and SQL), to predictive modeling and interactive visualization with a Plotly Dash app.
 
 ## Project Contents  
-- **Report_Final_Project_IBM.pdf**: The final project report detailing the methodology, analysis, and conclusions.  
-- **SpaceX_Machine Learning Prediction_Part_5.ipynb**: Notebook covering the machine learning prediction workflow on SpaceX data.  
-- **edadataviz.ipynb**: Notebook with exploratory data analysis and data visualization.  
-- **jupyter-labs-eda-sql-coursera_sqllite.ipynb**: Notebook demonstrating EDA using SQL.  
-- **jupyter-labs-spacex-data-collection-api.ipynb**: Notebook for collecting data from the SpaceX API.  
-- **jupyter-labs-webscraping.ipynb**: Notebook for data collection through web scraping techniques.  
-- **lab_jupyter_launch_site_location.ipynb**: Notebook for mapping SpaceX launch site locations.  
-- **labs-jupyter-spacex-Data wrangling.ipynb**: Notebook focused on cleaning and wrangling the collected data.  
-- **spacex_dash_app.py**: Python script to launch an interactive dashboard built with Plotly Dash.
+
+- [**Report_Final_Project_IBM.pdf**](https://github.com/yhakam/IBM-Final-Project/blob/main/Report_Final_Project_IBM.pdf): The final project report detailing the methodology, analysis, and conclusions.
+- [**SpaceX_Machine Learning Prediction_Part_5.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb): Notebook covering the machine learning prediction workflow on SpaceX data.
+- [**edadataviz.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/edadataviz.ipynb): Notebook with exploratory data analysis and data visualization.
+- [**jupyter-labs-eda-sql-coursera_sqllite.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/jupyter-labs-eda-sql-coursera_sqllite.ipynb): Notebook demonstrating EDA using SQL.
+- [**jupyter-labs-spacex-data-collection-api.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/jupyter-labs-spacex-data-collection-api.ipynb): Notebook for collecting data from the SpaceX API.
+- [**jupyter-labs-webscraping.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/jupyter-labs-webscraping.ipynb): Notebook for data collection through web scraping techniques.
+- [**lab_jupyter_launch_site_location.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/lab_jupyter_launch_site_location.ipynb): Notebook for mapping SpaceX launch site locations.
+- [**labs-jupyter-spacex-Data wrangling.ipynb**](https://github.com/yhakam/IBM-Final-Project/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb): Notebook focused on cleaning and wrangling the collected data.
+- [**spacex_dash_app.py**](https://github.com/yhakam/IBM-Final-Project/blob/main/spacex_dash_app.py): Python script to launch an interactive dashboard built with Plotly Dash.
+
 
 ## Project Workflow
 
