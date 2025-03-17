@@ -17,7 +17,7 @@ This repository contains my final project for the IBM Data Science Professional 
 
 ## Project Workflow
 
-- **Data Collection:**  
+- **Data Collection:** [jupyter-labs-spacex-data-collection-api.ipynb](1)
   Utilizes API requests and web scraping to gather SpaceX launch data.
 
 - **Data Wrangling:**  
@@ -40,4 +40,4 @@ For a complete overview of the project, refer to the final project report:
 This project was completed as part of the IBM Data Science Professional Certificate program.
 
 ## Contact  
-For questions or feedback, please contact me at [yassinehakam@outlook.com] or [https://www.linkedin.com/in/yhakam/].
+For questions or feedback, please contact me at yassinehakam@outlook.com or https://www.linkedin.com/in/yhakam/.
